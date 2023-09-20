@@ -13,8 +13,7 @@
 
 - Youtube Video : https://youtu.be/_IBlyR5mRzA
 - Demo Website :  https://next-tailwind-amazona.vercel.app
-- Source Code   :  https://github.com/basir/next-tailwind-amazona
-- Full Course: [basir.thinkific.com](https://basir.thinkific.com/courses/build-ecommerce-website-like-amazon-by-next-js?coupon=SAVE90)
+- Source Code   :  https://github.com/awesomedev08/next-tailwind-likeAmazon
 
 ## What you will learn
 
@@ -27,17 +26,13 @@
 - PayPal developer api to make online payment
 - Deploy web applications on servers like Vercel and Netlify
 
-## Full Course
-
-Get this course by 90% discount on Thinkific:
-https://basir.thinkific.com/courses/build-ecommerce-website-like-amazon-by-next-js?coupon=SAVE90
 
 ## Run Locally
 
 1. Clone repo
 
    ```shell
-    $ git clone git@github.com:basir/next-tailwind-amazona.git
+    $ git clone git@github.com:awesomedev08/next-tailwind-likeAmazon.git
     $ cd next-tailwind-amazona
    ```
 
